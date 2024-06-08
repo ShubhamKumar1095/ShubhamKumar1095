@@ -4,7 +4,7 @@
 </div>
 
 # 💫 About Me:
-I'm Shubham, a Student<br>with a passion for web development and cloud computing. <br>My GitHub showcases projects in<br> React, JS,Python,Node,Mongo<br> reflecting my experience in  web development and ML. <br>I'm always open to collaboration and learning from the community.
+I'm Shubham, a Student<br>with a passion for web development and cloud computing. <br>My GitHub showcases projects in<br> React, JS,Python,Node,Mongo DB<br> reflecting my experience in  web development and ML. <br>I'm always open to collaboration and learning from the community.
 ###
 
 
