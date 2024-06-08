@@ -1,5 +1,8 @@
-<h2 align="left">Hi 👋! My name is Shubham</h2>
+<h2 align="left">Hi 👋! </h2>
+###
 
+# 💫 About Me:
+I'm Shubham, a Student<br>with a passion for web development and cloud computing. <br>My GitHub showcases projects in<br> React, JS,Python,Node,Mongo<br> reflecting my experience in  web development and ML. <br>I'm always open to collaboration and learning from the community.
 ###
 
 <div align="center">
@@ -84,6 +87,11 @@
 </div>
 
 ###
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 😂 Random Dev Meme
+<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/shubham1095/" target="_blank">
@@ -104,3 +112,7 @@
 </div>
 
 ###
+
+
+
+
