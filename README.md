@@ -74,24 +74,37 @@ I'm Shubham a Student, Developer and Technical Content Writer<br>with a passion 
 <img src="https://raw.githubusercontent.com/ShubhamKumar1095/ShubhamKumar1095/output/snake.svg" alt="Snake animation" />
 
 
+
+### ✍️ My Medium Blogs
+
+
+
+<div style="display: flex; flex-direction: column; align-items: center; gap: 10px;"> 
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shubhamsbm1095/0">
+    <img style="max-width: 100%; width: 800px; height: auto;" src="https://github-readme-medium-recent-article.vercel.app/medium/@shubhamsbm1095/0" alt="Recent Article 0"> 
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shubhamsbm1095/1">
+    <img style="max-width: 100%; width: 800px; height: auto;" src="https://github-readme-medium-recent-article.vercel.app/medium/@shubhamsbm1095/1" alt="Recent Article 1">
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shubhamsbm1095/2">
+    <img style="max-width: 100%; width: 800px; height: auto;" src="https://github-readme-medium-recent-article.vercel.app/medium/@shubhamsbm1095/2" alt="Recent Article 2">
+  </a>
+</div>
+
+
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ShubhamKumar1095.ShubhamKumar1095&left_text=Popularity"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ShubhamKumar1095.ShubhamKumar1095&left_text=Popularity" width=130px />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=3&username=shubhamsbm1095&theme=dark" alt="Layout with last medium posts"  />
-</div>
-
-###
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/shubham1095/" target="_blank">
