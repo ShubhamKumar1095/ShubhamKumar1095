@@ -63,7 +63,7 @@ I'm Shubham a Student, Developer and Technical Content Writer<br>with a passion 
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=ShubhamKumar1095&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="151" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShubhamKumar1095&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=tokyonight&hide_border=true" height="151" alt="languages graph"  />
 </div>
