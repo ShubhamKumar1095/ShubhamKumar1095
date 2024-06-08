@@ -63,16 +63,16 @@ I'm Shubham a Student, Developer and Technical Content Writer<br>with a passion 
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=ShubhamKumar1095&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="151" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShubhamKumar1095&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=tokyonight&hide_border=true" height="151" alt="languages graph"  />
 </div>
 
 ###
 <br clear="both">
-
+<div align="left">
 <img src="https://raw.githubusercontent.com/ShubhamKumar1095/ShubhamKumar1095/output/snake.svg" alt="Snake animation" />
-
+</div>
 
 
 ### ✍️ My Medium Blogs
@@ -107,21 +107,11 @@ I'm Shubham a Student, Developer and Technical Content Writer<br>with a passion 
 
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/shubham1095/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="89" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/_skar_07" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="89" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://discord.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="89" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.instagram.com/_shu.bh.am_07/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="89" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://medium.com/@shubhamsbm1095" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="89" height="40" alt="medium logo"  />
-  </a>
+  <a href="https://www.linkedin.com/in/shubham1095/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="89" height="40" alt="linkedin logo"  /></a>
+  <a href="https://x.com/_skar_07" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="89" height="40" alt="twitter logo"  /></a>
+  <a href="https://discord.com/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="89" height="40" alt="discord logo"  /></a>
+  <a href="https://www.instagram.com/_shu.bh.am_07/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="89" height="40" alt="instagram logo"  /></a>
+  <a href="https://medium.com/@shubhamsbm1095" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="89" height="40" alt="medium logo"  /></a>
 </div>
 
 ###
