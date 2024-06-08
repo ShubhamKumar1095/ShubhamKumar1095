@@ -1,13 +1,13 @@
 <h2 align="left">Hi 👋! </h2>
-###
+<div align="center">
+  <img height="180" src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif?cid=790b7611kl8epwswarqzd7fwf5gul79qy7p1cmc38g1t3udd&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+</div>
 
 # 💫 About Me:
 I'm Shubham, a Student<br>with a passion for web development and cloud computing. <br>My GitHub showcases projects in<br> React, JS,Python,Node,Mongo<br> reflecting my experience in  web development and ML. <br>I'm always open to collaboration and learning from the community.
 ###
 
-<div align="center">
-  <img height="180" src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif?cid=790b7611kl8epwswarqzd7fwf5gul79qy7p1cmc38g1t3udd&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-</div>
+
 
 ###
 
