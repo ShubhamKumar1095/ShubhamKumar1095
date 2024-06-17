@@ -101,8 +101,7 @@ I'm Shubham a Student, Developer and Technical Content Writer<br>with a passion 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+
 
 
 
