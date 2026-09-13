@@ -66,28 +66,43 @@ I'm always open to **collaboration, innovative projects, and learning from the d
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="50" alt="googlecloud logo"  />
 </div>
+
+###
 ### 🤖 AI & Machine Learning
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo" />
   <img width="15" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50" alt="pytorch logo" />
   <img width="15" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" alt="tensorflow logo" />
   <img width="15" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="50" alt="scikit-learn logo" />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" height="50" alt="hugging face logo" />
+
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg"
+       height="50"
+       alt="hugging face logo" />
 </div>
 
 <p align="center">
-  <b>Generative AI</b> • <b>LLMs</b> • <b>Prompt Engineering</b> • <b>RAG</b> • 
-  <b>AI Agents</b> • <b>LangChain</b> • <b>LangGraph</b> • 
-  <b>Machine Learning</b> • <b>Deep Learning</b> • <b>NLP</b> • 
-  <b>Vector Databases</b> • <b>Embeddings</b> • <b>Model APIs</b>
+  <b>Generative AI</b> •
+  <b>LLMs</b> •
+  <b>Prompt Engineering</b> •
+  <b>RAG</b> •
+  <b>AI Agents</b> •
+  <b>LangChain</b> •
+  <b>LangGraph</b> •
+  <b>Machine Learning</b> •
+  <b>Deep Learning</b> •
+  <b>NLP</b> •
+  <b>Vector Databases</b> •
+  <b>Embeddings</b> •
+  <b>Model APIs</b>
 </p>
-###
-
 ###
 
 <div align="center">
