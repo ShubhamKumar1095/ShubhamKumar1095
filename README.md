@@ -4,7 +4,13 @@
 </div>
 
 # 💫 About Me:
-I'm Shubham ,a Student, Developer and Technical Content Writer<br>with a passion for web development and cloud computing. <br>My GitHub showcases projects in<br> React, JS,Python,Node,Mongo DB<br> Reflecting my experience in  Web development and ML. <br>I'm always open to collaboration and learning from the community.
+
+I'm Shubham, a Developer and Technical Content Writer passionate about **AI, Generative AI, and Cloud Computing**.<br>
+I build intelligent applications using **Python, JavaScript, and modern AI technologies**.<br>
+My interests include **LLMs, RAG pipelines, AI Agents, Machine Learning, NLP, and cloud-based AI applications**.<br>
+I enjoy turning ideas into **practical, scalable projects**, writing about technology, and continuously exploring new tools and frameworks.<br>
+I'm always open to **collaboration, innovative projects, and learning from the developer community**.
+
 ###
 
 
@@ -60,6 +66,27 @@ I'm Shubham ,a Student, Developer and Technical Content Writer<br>with a passion
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="50" alt="googlecloud logo"  />
 </div>
+### 🤖 AI & Machine Learning
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50" alt="pytorch logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" alt="tensorflow logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="50" alt="scikit-learn logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" height="50" alt="hugging face logo" />
+</div>
+
+<p align="center">
+  <b>Generative AI</b> • <b>LLMs</b> • <b>Prompt Engineering</b> • <b>RAG</b> • 
+  <b>AI Agents</b> • <b>LangChain</b> • <b>LangGraph</b> • 
+  <b>Machine Learning</b> • <b>Deep Learning</b> • <b>NLP</b> • 
+  <b>Vector Databases</b> • <b>Embeddings</b> • <b>Model APIs</b>
+</p>
+###
 
 ###
 
